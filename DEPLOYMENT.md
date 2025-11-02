@@ -72,7 +72,7 @@ This guide will help you deploy your blogging platform to production.
 
 3. **Create New Web Service**
    - Click "New +" → "Web Service"
-   - Connect your GitHub repository
+   - Connect your GitHub repository: `https://github.com/Rit95ik/Blogging-app.git`
    - Configure the service:
      - **Name**: blogging-platform-backend
      - **Region**: Choose closest to your users
@@ -118,7 +118,7 @@ This guide will help you deploy your blogging platform to production.
 
 3. **Import Project**
    - Click "Add New..." → "Project"
-   - Import your GitHub repository
+   - Import your GitHub repository: `https://github.com/Rit95ik/Blogging-app.git`
    - Configure the project:
      - **Framework Preset**: Vite
      - **Root Directory**: frontend
@@ -145,7 +145,7 @@ This guide will help you deploy your blogging platform to production.
 
 1. **Create New Static Site**
    - Click "New +" → "Static Site"
-   - Connect your GitHub repository
+   - Connect your GitHub repository: `https://github.com/Rit95ik/Blogging-app.git`
    - Configure:
      - **Name**: blogging-platform-frontend
      - **Branch**: main
