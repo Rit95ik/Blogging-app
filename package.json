@@ -1,0 +1,17 @@
+{
+  "name": "blogging-platform-workspace",
+  "version": "1.0.0",
+  "description": "Full-stack blogging platform with MERN stack",
+  "scripts": {
+    "install-all": "npm run install-backend && npm run install-frontend",
+    "install-backend": "cd backend && npm install",
+    "install-frontend": "cd frontend && npm install",
+    "dev-backend": "cd backend && npm run dev",
+    "dev-frontend": "cd frontend && npm run dev",
+    "start-backend": "cd backend && npm start",
+    "build-frontend": "cd frontend && npm run build"
+  },
+  "keywords": ["blog", "mern", "react", "express", "mongodb"],
+  "author": "Zidio Development",
+  "license": "MIT"
+}
